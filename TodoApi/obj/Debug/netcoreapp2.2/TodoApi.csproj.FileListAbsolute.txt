@@ -1,0 +1,14 @@
+/home/westamz/Documents/Net Core/Rest API/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/westamz/Documents/Net Core/Rest API/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/westamz/Documents/Net Core/Rest API/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/westamz/Documents/Net Core/Rest API/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/westamz/Documents/Net Core/Rest API/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/westamz/Documents/Net Core/Rest API/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
